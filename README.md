@@ -12,6 +12,8 @@
 | 5 | 인스파이어드(Inspired) | 마티 케이건 | 2026-01-29 ~ 2026-02-25 | [<img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791188621484.jpg" height="180px">](https://github.com/jeeyn/book-review/tree/main/Inspired) |
 | 6 | 마침내 특이점이 시작된다 | 레이 커즈와일 | 2026-02-26 ~ 2026-04-15 | [<img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791162544259.jpg" height="180px">](https://github.com/jeeyn/book-review/tree/main/TheSingularityIsNearer) | 
 | 7 | 아주 작은 습관의 힘 | 제임스 클리어 | 2026-05-07 ~ 2026-06-24 | [<img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791162540640.jpg" height="180px">](https://github.com/jeeyn/book-review/tree/main/AtomicHabits) |
+| 8 | 제로 투 원 | 피터 틸, 블레이크 매스터스 | 2026-07-01 ~ 2026-08-12 | [<img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/4808947529877.jpg" height="180px">](https://github.com/SwimLikeATurtle/BookClub/tree/main/ZeroToOne) |
+| 9 | 불변의 법칙 | 모건 하우절 | 2026-08-13 ~ 2026-09-30 | [<img src="https://contents.kyobobook.co.kr/sih/fit-in/400x0/pdt/9791198517425.jpg" height="180px">](https://github.com/SwimLikeATurtle/BookClub/tree/main/SameAsEver) |
 
 <!--
 | 0 | 엔터프라이즈 애플리케이션 아키텍처 패턴 | 마틴 파울러 | 2024-03-04 ~ <br/> | [<img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791158390174.jpg" height="180px">](https://github.com/jeeyn/book-review/tree/main/Patterns_of_Enterprise_Application_Architecture) |
